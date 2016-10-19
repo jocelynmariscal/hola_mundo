@@ -1,4 +1,3 @@
-// JavaScript Document
-function hola(){
-	alert("Hola Mundo");
-	}
+function hola () {
+	alert("Hola,¿como estas?");
+}

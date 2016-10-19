@@ -5,3 +5,18 @@ body{
 	background-color: #03C;
 	text-align:center;
 }
+.contenedor {
+	background-color: #C00;
+	text-align: center;
+	height: 80px;
+	width: 250px;
+	margin: 0 auto;
+	position: absolute;
+	left: 43%;
+	top: 40%;
+}
+.contenedor .boton {
+	position: absolute;
+	left: 43%;
+	top: 40%;
+}
